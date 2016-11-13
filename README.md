@@ -1,2 +1,1 @@
-# Jibo_Interview
-Mock Interview with Jibo bot
+[Jibo SDK & API Documentation](https://developers.jibo.com/sdk/docs/)

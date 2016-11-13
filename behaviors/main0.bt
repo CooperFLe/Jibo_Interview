@@ -5,30 +5,18 @@
         "name": "",
         "asset-pack": "core",
         "children": [
-            "a19ca1e6-b3af-4381-91b5-a64c63119682",
-            "7263063c-d1c8-4142-9d32-8b3c52c28dae",
-            "ded17113-c1ea-4ed7-8635-870fe33fad6f",
-            "1f23a820-349d-4c81-b7c4-2fbeaa6136f6",
-            "be9d9ccd-86d1-4a88-ad02-81371ea8a515",
-            "88393c9e-803f-43ee-92f6-598921bbc05b",
-            "eb750dcc-b606-42b3-83fe-31788b425ca9",
-            "b1d9784b-4b47-43eb-8344-f8b852c945ff",
-            "688480d1-78dc-4a2b-8a85-a5d21085d2e9",
-            "543fc8b8-3c60-4141-8560-fe436aa0d9fa",
-            "65a9b1a6-61a1-460c-9fb5-e4df15d69331",
-            "10d5b0fd-4541-43ac-afc6-4706f6a7be61",
-            "ee60c8a6-3a0d-4649-b998-8157dc56f5d1",
-            "5110b219-97d7-4797-8d3a-c0ec626758ff",
-            "269d9348-0062-4774-8683-8106c2b7a4d6",
-            "de04d07a-abb5-490f-8b0a-f393539aaaec",
-            "895bcb32-82fc-43c1-9171-f028dd5ef5f5",
-            "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94",
-            "07f6a4d3-7826-4c37-947e-1a98af3ac2e3",
-            "5cd8fe48-f873-4f8f-b6f9-0d867747e933",
-            "be41d5bc-dc26-4709-96e0-968439bfd95d",
-            "b48ba80e-3c54-4496-9607-c570c33a24b6",
-            "0c7216ed-dd11-46ae-9a6a-fe81b31915ff",
-            "e68c9526-1b05-4887-919e-e75186ef7da9",
+            "462a4404-1284-4e50-83a4-188a0001dd0f",
+            "9760b134-2764-4a10-920e-b6c7eeadf845",
+            "2cf56d02-615e-459c-8597-d9eee213595e",
+            "2b542029-80c4-49fb-95b8-5702fa4fe5c9",
+            "1362c7e0-6f35-4151-b990-3fe759bd54a9",
+            "9e0f5b18-3524-4972-8ce9-0583694c1466",
+            "da9dc864-600d-4c48-9f9d-3bf8ab126a9e",
+            "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b",
+            "f46cf516-a219-4627-9eb3-39b03aaf6601",
+            "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc",
+            "adc2e31a-67df-43c9-966e-5ef330499ae2",
+            "1973e966-5d01-4c3c-b155-714b741764b0",
             "a9e14b95-8edb-4e44-8543-51d444dd8e3e"
         ],
         "decorators": [],
@@ -49,7 +37,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1,
+        "parent": "2cf56d02-615e-459c-8597-d9eee213595e",
         "decorators": []
     },
     "1f23a820-349d-4c81-b7c4-2fbeaa6136f6": {
@@ -78,7 +66,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "9760b134-2764-4a10-920e-b6c7eeadf845"
     },
     "7263063c-d1c8-4142-9d32-8b3c52c28dae": {
         "id": "7263063c-d1c8-4142-9d32-8b3c52c28dae",
@@ -106,7 +94,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "462a4404-1284-4e50-83a4-188a0001dd0f"
     },
     "688480d1-78dc-4a2b-8a85-a5d21085d2e9": {
         "id": "688480d1-78dc-4a2b-8a85-a5d21085d2e9",
@@ -120,7 +108,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "1362c7e0-6f35-4151-b990-3fe759bd54a9"
     },
     "ee60c8a6-3a0d-4649-b998-8157dc56f5d1": {
         "id": "ee60c8a6-3a0d-4649-b998-8157dc56f5d1",
@@ -134,7 +122,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "da9dc864-600d-4c48-9f9d-3bf8ab126a9e"
     },
     "269d9348-0062-4774-8683-8106c2b7a4d6": {
         "id": "269d9348-0062-4774-8683-8106c2b7a4d6",
@@ -148,7 +136,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b"
     },
     "a19ca1e6-b3af-4381-91b5-a64c63119682": {
         "id": "a19ca1e6-b3af-4381-91b5-a64c63119682",
@@ -162,7 +150,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "462a4404-1284-4e50-83a4-188a0001dd0f"
     },
     "65a9b1a6-61a1-460c-9fb5-e4df15d69331": {
         "id": "65a9b1a6-61a1-460c-9fb5-e4df15d69331",
@@ -176,7 +164,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "9e0f5b18-3524-4972-8ce9-0583694c1466"
     },
     "ded17113-c1ea-4ed7-8635-870fe33fad6f": {
         "id": "ded17113-c1ea-4ed7-8635-870fe33fad6f",
@@ -190,7 +178,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "9760b134-2764-4a10-920e-b6c7eeadf845"
     },
     "be41d5bc-dc26-4709-96e0-968439bfd95d": {
         "id": "be41d5bc-dc26-4709-96e0-968439bfd95d",
@@ -204,7 +192,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "adc2e31a-67df-43c9-966e-5ef330499ae2"
     },
     "eb750dcc-b606-42b3-83fe-31788b425ca9": {
         "id": "eb750dcc-b606-42b3-83fe-31788b425ca9",
@@ -218,7 +206,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "2b542029-80c4-49fb-95b8-5702fa4fe5c9"
     },
     "07f6a4d3-7826-4c37-947e-1a98af3ac2e3": {
         "id": "07f6a4d3-7826-4c37-947e-1a98af3ac2e3",
@@ -232,7 +220,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc"
     },
     "895bcb32-82fc-43c1-9171-f028dd5ef5f5": {
         "id": "895bcb32-82fc-43c1-9171-f028dd5ef5f5",
@@ -246,7 +234,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "f46cf516-a219-4627-9eb3-39b03aaf6601"
     },
     "0c7216ed-dd11-46ae-9a6a-fe81b31915ff": {
         "id": "0c7216ed-dd11-46ae-9a6a-fe81b31915ff",
@@ -260,7 +248,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "1973e966-5d01-4c3c-b155-714b741764b0"
     },
     "88393c9e-803f-43ee-92f6-598921bbc05b": {
         "id": "88393c9e-803f-43ee-92f6-598921bbc05b",
@@ -288,7 +276,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "2cf56d02-615e-459c-8597-d9eee213595e"
     },
     "b1d9784b-4b47-43eb-8344-f8b852c945ff": {
         "id": "b1d9784b-4b47-43eb-8344-f8b852c945ff",
@@ -316,7 +304,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "2b542029-80c4-49fb-95b8-5702fa4fe5c9"
     },
     "543fc8b8-3c60-4141-8560-fe436aa0d9fa": {
         "id": "543fc8b8-3c60-4141-8560-fe436aa0d9fa",
@@ -344,7 +332,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "1362c7e0-6f35-4151-b990-3fe759bd54a9"
     },
     "10d5b0fd-4541-43ac-afc6-4706f6a7be61": {
         "id": "10d5b0fd-4541-43ac-afc6-4706f6a7be61",
@@ -372,7 +360,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "9e0f5b18-3524-4972-8ce9-0583694c1466"
     },
     "5110b219-97d7-4797-8d3a-c0ec626758ff": {
         "id": "5110b219-97d7-4797-8d3a-c0ec626758ff",
@@ -400,7 +388,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "da9dc864-600d-4c48-9f9d-3bf8ab126a9e"
     },
     "de04d07a-abb5-490f-8b0a-f393539aaaec": {
         "id": "de04d07a-abb5-490f-8b0a-f393539aaaec",
@@ -428,7 +416,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b"
     },
     "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94": {
         "id": "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94",
@@ -456,7 +444,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "f46cf516-a219-4627-9eb3-39b03aaf6601"
     },
     "5cd8fe48-f873-4f8f-b6f9-0d867747e933": {
         "id": "5cd8fe48-f873-4f8f-b6f9-0d867747e933",
@@ -484,7 +472,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc"
     },
     "b48ba80e-3c54-4496-9607-c570c33a24b6": {
         "id": "b48ba80e-3c54-4496-9607-c570c33a24b6",
@@ -512,7 +500,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "adc2e31a-67df-43c9-966e-5ef330499ae2"
     },
     "e68c9526-1b05-4887-919e-e75186ef7da9": {
         "id": "e68c9526-1b05-4887-919e-e75186ef7da9",
@@ -540,7 +528,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": 1
+        "parent": "1973e966-5d01-4c3c-b155-714b741764b0"
     },
     "a9e14b95-8edb-4e44-8543-51d444dd8e3e": {
         "id": "a9e14b95-8edb-4e44-8543-51d444dd8e3e",
@@ -555,5 +543,353 @@
         },
         "asset-pack": "core",
         "parent": 1
+    },
+    "462a4404-1284-4e50-83a4-188a0001dd0f": {
+        "id": "462a4404-1284-4e50-83a4-188a0001dd0f",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "8df8c24f-fae1-400b-a35c-af2d9b306e9b",
+            "a19ca1e6-b3af-4381-91b5-a64c63119682",
+            "7263063c-d1c8-4142-9d32-8b3c52c28dae"
+        ]
+    },
+    "8df8c24f-fae1-400b-a35c-af2d9b306e9b": {
+        "id": "8df8c24f-fae1-400b-a35c-af2d9b306e9b",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "462a4404-1284-4e50-83a4-188a0001dd0f"
+    },
+    "9760b134-2764-4a10-920e-b6c7eeadf845": {
+        "id": "9760b134-2764-4a10-920e-b6c7eeadf845",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "0ba8aeed-113c-4f00-b805-9e3c4ece078d",
+            "ded17113-c1ea-4ed7-8635-870fe33fad6f",
+            "1f23a820-349d-4c81-b7c4-2fbeaa6136f6"
+        ]
+    },
+    "0ba8aeed-113c-4f00-b805-9e3c4ece078d": {
+        "id": "0ba8aeed-113c-4f00-b805-9e3c4ece078d",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "9760b134-2764-4a10-920e-b6c7eeadf845"
+    },
+    "2cf56d02-615e-459c-8597-d9eee213595e": {
+        "id": "2cf56d02-615e-459c-8597-d9eee213595e",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "5a7f4eb5-d9db-4d35-82ef-06ba944dee5b",
+            "be9d9ccd-86d1-4a88-ad02-81371ea8a515",
+            "88393c9e-803f-43ee-92f6-598921bbc05b"
+        ]
+    },
+    "5a7f4eb5-d9db-4d35-82ef-06ba944dee5b": {
+        "id": "5a7f4eb5-d9db-4d35-82ef-06ba944dee5b",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "2cf56d02-615e-459c-8597-d9eee213595e"
+    },
+    "2b542029-80c4-49fb-95b8-5702fa4fe5c9": {
+        "id": "2b542029-80c4-49fb-95b8-5702fa4fe5c9",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "fc1c2987-9302-4562-9bfb-5d554c1066c8",
+            "eb750dcc-b606-42b3-83fe-31788b425ca9",
+            "b1d9784b-4b47-43eb-8344-f8b852c945ff"
+        ]
+    },
+    "fc1c2987-9302-4562-9bfb-5d554c1066c8": {
+        "id": "fc1c2987-9302-4562-9bfb-5d554c1066c8",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "2b542029-80c4-49fb-95b8-5702fa4fe5c9"
+    },
+    "1362c7e0-6f35-4151-b990-3fe759bd54a9": {
+        "id": "1362c7e0-6f35-4151-b990-3fe759bd54a9",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "d2e789fd-649c-4af2-8ae0-18b8f24a7fdc",
+            "688480d1-78dc-4a2b-8a85-a5d21085d2e9",
+            "543fc8b8-3c60-4141-8560-fe436aa0d9fa"
+        ]
+    },
+    "d2e789fd-649c-4af2-8ae0-18b8f24a7fdc": {
+        "id": "d2e789fd-649c-4af2-8ae0-18b8f24a7fdc",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "1362c7e0-6f35-4151-b990-3fe759bd54a9"
+    },
+    "9e0f5b18-3524-4972-8ce9-0583694c1466": {
+        "id": "9e0f5b18-3524-4972-8ce9-0583694c1466",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "376f4fe4-dfbe-452e-b0b2-87b4d22aaaf8",
+            "65a9b1a6-61a1-460c-9fb5-e4df15d69331",
+            "10d5b0fd-4541-43ac-afc6-4706f6a7be61"
+        ]
+    },
+    "376f4fe4-dfbe-452e-b0b2-87b4d22aaaf8": {
+        "id": "376f4fe4-dfbe-452e-b0b2-87b4d22aaaf8",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "9e0f5b18-3524-4972-8ce9-0583694c1466"
+    },
+    "da9dc864-600d-4c48-9f9d-3bf8ab126a9e": {
+        "id": "da9dc864-600d-4c48-9f9d-3bf8ab126a9e",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "2f7e4572-1ecd-49c1-b700-bde1b81235fd",
+            "ee60c8a6-3a0d-4649-b998-8157dc56f5d1",
+            "5110b219-97d7-4797-8d3a-c0ec626758ff"
+        ]
+    },
+    "2f7e4572-1ecd-49c1-b700-bde1b81235fd": {
+        "id": "2f7e4572-1ecd-49c1-b700-bde1b81235fd",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "da9dc864-600d-4c48-9f9d-3bf8ab126a9e"
+    },
+    "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b": {
+        "id": "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "8329af86-ee2e-43d1-817a-d5b567bd3272",
+            "269d9348-0062-4774-8683-8106c2b7a4d6",
+            "de04d07a-abb5-490f-8b0a-f393539aaaec"
+        ]
+    },
+    "8329af86-ee2e-43d1-817a-d5b567bd3272": {
+        "id": "8329af86-ee2e-43d1-817a-d5b567bd3272",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b"
+    },
+    "f46cf516-a219-4627-9eb3-39b03aaf6601": {
+        "id": "f46cf516-a219-4627-9eb3-39b03aaf6601",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "c01e9c68-a168-493b-9dfd-0382e4cdff3e",
+            "895bcb32-82fc-43c1-9171-f028dd5ef5f5",
+            "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94"
+        ]
+    },
+    "c01e9c68-a168-493b-9dfd-0382e4cdff3e": {
+        "id": "c01e9c68-a168-493b-9dfd-0382e4cdff3e",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "f46cf516-a219-4627-9eb3-39b03aaf6601"
+    },
+    "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc": {
+        "id": "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "e6dd1106-079c-4e1f-8d40-4a4eeab54ec0",
+            "07f6a4d3-7826-4c37-947e-1a98af3ac2e3",
+            "5cd8fe48-f873-4f8f-b6f9-0d867747e933"
+        ]
+    },
+    "e6dd1106-079c-4e1f-8d40-4a4eeab54ec0": {
+        "id": "e6dd1106-079c-4e1f-8d40-4a4eeab54ec0",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc"
+    },
+    "adc2e31a-67df-43c9-966e-5ef330499ae2": {
+        "id": "adc2e31a-67df-43c9-966e-5ef330499ae2",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "c92beb79-8624-4e78-9dbe-2211f2568117",
+            "be41d5bc-dc26-4709-96e0-968439bfd95d",
+            "b48ba80e-3c54-4496-9607-c570c33a24b6"
+        ]
+    },
+    "c92beb79-8624-4e78-9dbe-2211f2568117": {
+        "id": "c92beb79-8624-4e78-9dbe-2211f2568117",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "adc2e31a-67df-43c9-966e-5ef330499ae2"
+    },
+    "1973e966-5d01-4c3c-b155-714b741764b0": {
+        "id": "1973e966-5d01-4c3c-b155-714b741764b0",
+        "class": "Parallel",
+        "name": "",
+        "options": {
+            "succeedOnOne": false
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "children": [
+            "a9b5639b-0ce4-4aca-9c8d-a5ac4bc324b9",
+            "0c7216ed-dd11-46ae-9a6a-fe81b31915ff",
+            "e68c9526-1b05-4887-919e-e75186ef7da9"
+        ]
+    },
+    "a9b5639b-0ce4-4aca-9c8d-a5ac4bc324b9": {
+        "id": "a9b5639b-0ce4-4aca-9c8d-a5ac4bc324b9",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": "1973e966-5d01-4c3c-b155-714b741764b0"
     }
 }
