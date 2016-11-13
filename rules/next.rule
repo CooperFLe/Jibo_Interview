@@ -1,0 +1,8 @@
+TopRule =
+
+    ask me a
+    interview question { questions ='interview'} | coding question {questions = 'coding'}
+
+
+
+;

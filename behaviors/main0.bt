@@ -1,0 +1,559 @@
+{
+    "1": {
+        "id": 1,
+        "class": "Sequence",
+        "name": "",
+        "asset-pack": "core",
+        "children": [
+            "a19ca1e6-b3af-4381-91b5-a64c63119682",
+            "7263063c-d1c8-4142-9d32-8b3c52c28dae",
+            "ded17113-c1ea-4ed7-8635-870fe33fad6f",
+            "1f23a820-349d-4c81-b7c4-2fbeaa6136f6",
+            "be9d9ccd-86d1-4a88-ad02-81371ea8a515",
+            "88393c9e-803f-43ee-92f6-598921bbc05b",
+            "eb750dcc-b606-42b3-83fe-31788b425ca9",
+            "b1d9784b-4b47-43eb-8344-f8b852c945ff",
+            "688480d1-78dc-4a2b-8a85-a5d21085d2e9",
+            "543fc8b8-3c60-4141-8560-fe436aa0d9fa",
+            "65a9b1a6-61a1-460c-9fb5-e4df15d69331",
+            "10d5b0fd-4541-43ac-afc6-4706f6a7be61",
+            "ee60c8a6-3a0d-4649-b998-8157dc56f5d1",
+            "5110b219-97d7-4797-8d3a-c0ec626758ff",
+            "269d9348-0062-4774-8683-8106c2b7a4d6",
+            "de04d07a-abb5-490f-8b0a-f393539aaaec",
+            "895bcb32-82fc-43c1-9171-f028dd5ef5f5",
+            "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94",
+            "07f6a4d3-7826-4c37-947e-1a98af3ac2e3",
+            "5cd8fe48-f873-4f8f-b6f9-0d867747e933",
+            "be41d5bc-dc26-4709-96e0-968439bfd95d",
+            "b48ba80e-3c54-4496-9607-c570c33a24b6",
+            "0c7216ed-dd11-46ae-9a6a-fe81b31915ff",
+            "e68c9526-1b05-4887-919e-e75186ef7da9",
+            "a9e14b95-8edb-4e44-8543-51d444dd8e3e"
+        ],
+        "decorators": [],
+        "options": {}
+    },
+    "meta": {
+        "version": 1
+    },
+    "be9d9ccd-86d1-4a88-ad02-81371ea8a515": {
+        "id": "be9d9ccd-86d1-4a88-ad02-81371ea8a515",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "What has been your proudest accomplishment? Tell me about it.",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1,
+        "decorators": []
+    },
+    "1f23a820-349d-4c81-b7c4-2fbeaa6136f6": {
+        "id": "1f23a820-349d-4c81-b7c4-2fbeaa6136f6",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "7263063c-d1c8-4142-9d32-8b3c52c28dae": {
+        "id": "7263063c-d1c8-4142-9d32-8b3c52c28dae",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "688480d1-78dc-4a2b-8a85-a5d21085d2e9": {
+        "id": "688480d1-78dc-4a2b-8a85-a5d21085d2e9",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "What do you consider your greatest strength?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "ee60c8a6-3a0d-4649-b998-8157dc56f5d1": {
+        "id": "ee60c8a6-3a0d-4649-b998-8157dc56f5d1",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "Where do you see yourself five years from now?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "269d9348-0062-4774-8683-8106c2b7a4d6": {
+        "id": "269d9348-0062-4774-8683-8106c2b7a4d6",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "Why do you want to work here?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "a19ca1e6-b3af-4381-91b5-a64c63119682": {
+        "id": "a19ca1e6-b3af-4381-91b5-a64c63119682",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "Tell me about yourself.",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "65a9b1a6-61a1-460c-9fb5-e4df15d69331": {
+        "id": "65a9b1a6-61a1-460c-9fb5-e4df15d69331",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "What are your weaknesses?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "ded17113-c1ea-4ed7-8635-870fe33fad6f": {
+        "id": "ded17113-c1ea-4ed7-8635-870fe33fad6f",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "Why should we hire you?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "be41d5bc-dc26-4709-96e0-968439bfd95d": {
+        "id": "be41d5bc-dc26-4709-96e0-968439bfd95d",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "What do you know about the company?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "eb750dcc-b606-42b3-83fe-31788b425ca9": {
+        "id": "eb750dcc-b606-42b3-83fe-31788b425ca9",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "What is your greatest failure, and what did you learn from it? ",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "07f6a4d3-7826-4c37-947e-1a98af3ac2e3": {
+        "id": "07f6a4d3-7826-4c37-947e-1a98af3ac2e3",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "Tell me about a challenge or conflict you've faced at work, and how you dealt with it.",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "895bcb32-82fc-43c1-9171-f028dd5ef5f5": {
+        "id": "895bcb32-82fc-43c1-9171-f028dd5ef5f5",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "What type of work environment do you prefer?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "0c7216ed-dd11-46ae-9a6a-fe81b31915ff": {
+        "id": "0c7216ed-dd11-46ae-9a6a-fe81b31915ff",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "Do you have any questions for us?",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "88393c9e-803f-43ee-92f6-598921bbc05b": {
+        "id": "88393c9e-803f-43ee-92f6-598921bbc05b",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "b1d9784b-4b47-43eb-8344-f8b852c945ff": {
+        "id": "b1d9784b-4b47-43eb-8344-f8b852c945ff",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "543fc8b8-3c60-4141-8560-fe436aa0d9fa": {
+        "id": "543fc8b8-3c60-4141-8560-fe436aa0d9fa",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "10d5b0fd-4541-43ac-afc6-4706f6a7be61": {
+        "id": "10d5b0fd-4541-43ac-afc6-4706f6a7be61",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "5110b219-97d7-4797-8d3a-c0ec626758ff": {
+        "id": "5110b219-97d7-4797-8d3a-c0ec626758ff",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "de04d07a-abb5-490f-8b0a-f393539aaaec": {
+        "id": "de04d07a-abb5-490f-8b0a-f393539aaaec",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94": {
+        "id": "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "5cd8fe48-f873-4f8f-b6f9-0d867747e933": {
+        "id": "5cd8fe48-f873-4f8f-b6f9-0d867747e933",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "b48ba80e-3c54-4496-9607-c570c33a24b6": {
+        "id": "b48ba80e-3c54-4496-9607-c570c33a24b6",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "e68c9526-1b05-4887-919e-e75186ef7da9": {
+        "id": "e68c9526-1b05-4887-919e-e75186ef7da9",
+        "class": "Listen",
+        "name": "",
+        "options": {
+            "getOptions": [
+                "() => {",
+                "    let options = {",
+                "        heyJibo: false,",
+                "        detectEnd: false,",
+                "        incremental: false,",
+                "        authenticateSpeaker: ''",
+                "    }",
+                "    return options;",
+                "}"
+            ],
+            "rule": "",
+            "onResult": [
+                "(listener) => {",
+                "    listener.on('cloud', function(asrResult, speakerIds) {",
+                "",
+                "    });",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "a9e14b95-8edb-4e44-8543-51d444dd8e3e": {
+        "id": "a9e14b95-8edb-4e44-8543-51d444dd8e3e",
+        "class": "TextToSpeech",
+        "name": "",
+        "options": {
+            "words": "Nice talking to you. Your mock interview is now complete.",
+            "onWord": [
+                "(word) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    }
+}

@@ -1,0 +1,7 @@
+TopRule = $*
+
+    (hey | hi | hello){what='hey'}
+
+    $*
+
+;
