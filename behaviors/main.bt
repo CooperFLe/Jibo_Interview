@@ -6,18 +6,18 @@
         "options": {},
         "asset-pack": "core",
         "children": [
-            "f4ac87f3-671e-4149-99db-3a4c66b5112b"
+            "2d13dbb9-b3b9-48c9-b970-80eaf8215c5a",
+            4,
+            "8f67df2c-ffa4-45a6-adae-1e17da6a1540"
         ],
-        "decorators": [
-            "4e6c685a-822e-443b-a5ca-aac2e5356d03"
-        ]
+        "decorators": []
     },
     "4": {
         "id": 4,
         "class": "PlayAnimation",
         "name": "Play a greeting",
         "asset-pack": "core",
-        "parent": "f4ac87f3-671e-4149-99db-3a4c66b5112b",
+        "parent": 1,
         "options": {
             "animPath": "greeting.keys",
             "config": [
@@ -48,40 +48,9 @@
             ]
         },
         "asset-pack": "core",
-        "parent": "f4ac87f3-671e-4149-99db-3a4c66b5112b",
+        "parent": 1,
         "decorators": [],
         "skipped": false
-    },
-    "f4ac87f3-671e-4149-99db-3a4c66b5112b": {
-        "id": "f4ac87f3-671e-4149-99db-3a4c66b5112b",
-        "class": "Sequence",
-        "name": "",
-        "options": {},
-        "asset-pack": "core",
-        "parent": 1,
-        "children": [
-            "2d13dbb9-b3b9-48c9-b970-80eaf8215c5a",
-            4,
-            "8f67df2c-ffa4-45a6-adae-1e17da6a1540"
-        ],
-        "skipped": false
-    },
-    "4e6c685a-822e-443b-a5ca-aac2e5356d03": {
-        "id": "4e6c685a-822e-443b-a5ca-aac2e5356d03",
-        "class": "WhileCondition",
-        "name": "",
-        "options": {
-            "init": [
-                "() => {",
-                "}"
-            ],
-            "conditional": [
-                "() => {",
-                "    return true;",
-                "}"
-            ]
-        },
-        "asset-pack": "core"
     },
     "2d13dbb9-b3b9-48c9-b970-80eaf8215c5a": {
         "id": "2d13dbb9-b3b9-48c9-b970-80eaf8215c5a",
@@ -100,7 +69,7 @@
             ]
         },
         "asset-pack": "core",
-        "parent": "f4ac87f3-671e-4149-99db-3a4c66b5112b",
+        "parent": 1,
         "decorators": [
             "fcf3d57e-1f70-4de5-a386-3a4e0b3518d7"
         ]

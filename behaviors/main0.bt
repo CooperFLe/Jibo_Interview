@@ -6,17 +6,41 @@
         "asset-pack": "core",
         "children": [
             "462a4404-1284-4e50-83a4-188a0001dd0f",
+            "d0c4ba56-447f-45ae-a2c8-a883ce2ee828",
+            "17f1b8b8-34d3-4626-8d7a-5552e8719039",
             "9760b134-2764-4a10-920e-b6c7eeadf845",
+            "f77e55f7-a6d5-4e06-941b-60ebbb49a4b3",
+            "d094540b-e8fc-43b4-850e-ca8470e4ffa3",
             "2cf56d02-615e-459c-8597-d9eee213595e",
+            "a278383c-dd75-442a-b3d7-d5199d14ddce",
+            "6646759f-ff1a-44b7-bf9d-52c76f47f549",
             "2b542029-80c4-49fb-95b8-5702fa4fe5c9",
+            "dcc9e532-f8ab-49ce-aa93-a6e9eea1564d",
+            "9c77d01c-df2e-43e7-8dab-803feee07c67",
             "1362c7e0-6f35-4151-b990-3fe759bd54a9",
+            "2621b0c0-a6d0-405b-8933-41b9630717a0",
+            "10ce3f2c-97ff-45c2-9de8-0a7f91118187",
             "9e0f5b18-3524-4972-8ce9-0583694c1466",
+            "ef44bff3-cf52-4dd8-9b9b-f21bd6260734",
+            "dd21a382-8773-431c-b7a5-aee66661f6d2",
             "da9dc864-600d-4c48-9f9d-3bf8ab126a9e",
+            "50afd2c7-8eec-4934-b22e-309fccae40b8",
+            "0e5afb43-9a94-470d-afe7-c5a229dbc210",
             "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b",
+            "1e6338a8-edaa-4f95-9b1b-4efb50a088d0",
+            "6a2fe040-b44b-411a-9df0-35a5ce79d0cc",
             "f46cf516-a219-4627-9eb3-39b03aaf6601",
+            "d5bc9a1d-b41d-4db7-ba53-417066d8ea77",
+            "0a2b732d-22d0-440d-9569-a609b7f7b109",
             "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc",
+            "aef4b3b3-51ce-48c9-8f7d-1ac9e8d34ac9",
+            "aa491310-204c-4c92-bd36-7f770e2dd255",
             "adc2e31a-67df-43c9-966e-5ef330499ae2",
+            "e3cbebea-850e-4ff8-80ed-532facb2bb9b",
+            "11056833-3eb2-4dc3-a87d-194b37f713d0",
             "1973e966-5d01-4c3c-b155-714b741764b0",
+            "e5c87959-4c4a-485a-a603-54e7a16c8be5",
+            "33f32bea-73d5-4668-b1fa-e26a7672d7dc",
             "a9e14b95-8edb-4e44-8543-51d444dd8e3e"
         ],
         "decorators": [],
@@ -554,24 +578,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "8df8c24f-fae1-400b-a35c-af2d9b306e9b",
             "a19ca1e6-b3af-4381-91b5-a64c63119682",
             "7263063c-d1c8-4142-9d32-8b3c52c28dae"
         ]
-    },
-    "8df8c24f-fae1-400b-a35c-af2d9b306e9b": {
-        "id": "8df8c24f-fae1-400b-a35c-af2d9b306e9b",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "462a4404-1284-4e50-83a4-188a0001dd0f"
     },
     "9760b134-2764-4a10-920e-b6c7eeadf845": {
         "id": "9760b134-2764-4a10-920e-b6c7eeadf845",
@@ -583,24 +592,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "0ba8aeed-113c-4f00-b805-9e3c4ece078d",
             "ded17113-c1ea-4ed7-8635-870fe33fad6f",
             "1f23a820-349d-4c81-b7c4-2fbeaa6136f6"
         ]
-    },
-    "0ba8aeed-113c-4f00-b805-9e3c4ece078d": {
-        "id": "0ba8aeed-113c-4f00-b805-9e3c4ece078d",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "9760b134-2764-4a10-920e-b6c7eeadf845"
     },
     "2cf56d02-615e-459c-8597-d9eee213595e": {
         "id": "2cf56d02-615e-459c-8597-d9eee213595e",
@@ -612,24 +606,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "5a7f4eb5-d9db-4d35-82ef-06ba944dee5b",
             "be9d9ccd-86d1-4a88-ad02-81371ea8a515",
             "88393c9e-803f-43ee-92f6-598921bbc05b"
         ]
-    },
-    "5a7f4eb5-d9db-4d35-82ef-06ba944dee5b": {
-        "id": "5a7f4eb5-d9db-4d35-82ef-06ba944dee5b",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "2cf56d02-615e-459c-8597-d9eee213595e"
     },
     "2b542029-80c4-49fb-95b8-5702fa4fe5c9": {
         "id": "2b542029-80c4-49fb-95b8-5702fa4fe5c9",
@@ -641,24 +620,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "fc1c2987-9302-4562-9bfb-5d554c1066c8",
             "eb750dcc-b606-42b3-83fe-31788b425ca9",
             "b1d9784b-4b47-43eb-8344-f8b852c945ff"
         ]
-    },
-    "fc1c2987-9302-4562-9bfb-5d554c1066c8": {
-        "id": "fc1c2987-9302-4562-9bfb-5d554c1066c8",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "2b542029-80c4-49fb-95b8-5702fa4fe5c9"
     },
     "1362c7e0-6f35-4151-b990-3fe759bd54a9": {
         "id": "1362c7e0-6f35-4151-b990-3fe759bd54a9",
@@ -670,24 +634,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "d2e789fd-649c-4af2-8ae0-18b8f24a7fdc",
             "688480d1-78dc-4a2b-8a85-a5d21085d2e9",
             "543fc8b8-3c60-4141-8560-fe436aa0d9fa"
         ]
-    },
-    "d2e789fd-649c-4af2-8ae0-18b8f24a7fdc": {
-        "id": "d2e789fd-649c-4af2-8ae0-18b8f24a7fdc",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "1362c7e0-6f35-4151-b990-3fe759bd54a9"
     },
     "9e0f5b18-3524-4972-8ce9-0583694c1466": {
         "id": "9e0f5b18-3524-4972-8ce9-0583694c1466",
@@ -699,24 +648,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "376f4fe4-dfbe-452e-b0b2-87b4d22aaaf8",
             "65a9b1a6-61a1-460c-9fb5-e4df15d69331",
             "10d5b0fd-4541-43ac-afc6-4706f6a7be61"
         ]
-    },
-    "376f4fe4-dfbe-452e-b0b2-87b4d22aaaf8": {
-        "id": "376f4fe4-dfbe-452e-b0b2-87b4d22aaaf8",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "9e0f5b18-3524-4972-8ce9-0583694c1466"
     },
     "da9dc864-600d-4c48-9f9d-3bf8ab126a9e": {
         "id": "da9dc864-600d-4c48-9f9d-3bf8ab126a9e",
@@ -728,24 +662,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "2f7e4572-1ecd-49c1-b700-bde1b81235fd",
             "ee60c8a6-3a0d-4649-b998-8157dc56f5d1",
             "5110b219-97d7-4797-8d3a-c0ec626758ff"
         ]
-    },
-    "2f7e4572-1ecd-49c1-b700-bde1b81235fd": {
-        "id": "2f7e4572-1ecd-49c1-b700-bde1b81235fd",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "da9dc864-600d-4c48-9f9d-3bf8ab126a9e"
     },
     "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b": {
         "id": "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b",
@@ -757,24 +676,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "8329af86-ee2e-43d1-817a-d5b567bd3272",
             "269d9348-0062-4774-8683-8106c2b7a4d6",
             "de04d07a-abb5-490f-8b0a-f393539aaaec"
         ]
-    },
-    "8329af86-ee2e-43d1-817a-d5b567bd3272": {
-        "id": "8329af86-ee2e-43d1-817a-d5b567bd3272",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "a2aa5146-5eaf-48ae-b1e6-5c9f41f0ae0b"
     },
     "f46cf516-a219-4627-9eb3-39b03aaf6601": {
         "id": "f46cf516-a219-4627-9eb3-39b03aaf6601",
@@ -786,24 +690,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "c01e9c68-a168-493b-9dfd-0382e4cdff3e",
             "895bcb32-82fc-43c1-9171-f028dd5ef5f5",
             "1b07f9a7-e0a2-4e6a-accc-14bb7155bb94"
         ]
-    },
-    "c01e9c68-a168-493b-9dfd-0382e4cdff3e": {
-        "id": "c01e9c68-a168-493b-9dfd-0382e4cdff3e",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "f46cf516-a219-4627-9eb3-39b03aaf6601"
     },
     "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc": {
         "id": "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc",
@@ -815,24 +704,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "e6dd1106-079c-4e1f-8d40-4a4eeab54ec0",
             "07f6a4d3-7826-4c37-947e-1a98af3ac2e3",
             "5cd8fe48-f873-4f8f-b6f9-0d867747e933"
         ]
-    },
-    "e6dd1106-079c-4e1f-8d40-4a4eeab54ec0": {
-        "id": "e6dd1106-079c-4e1f-8d40-4a4eeab54ec0",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "ae929636-5b22-4c70-9aeb-da7cf9ad5cfc"
     },
     "adc2e31a-67df-43c9-966e-5ef330499ae2": {
         "id": "adc2e31a-67df-43c9-966e-5ef330499ae2",
@@ -844,24 +718,9 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "c92beb79-8624-4e78-9dbe-2211f2568117",
             "be41d5bc-dc26-4709-96e0-968439bfd95d",
             "b48ba80e-3c54-4496-9607-c570c33a24b6"
         ]
-    },
-    "c92beb79-8624-4e78-9dbe-2211f2568117": {
-        "id": "c92beb79-8624-4e78-9dbe-2211f2568117",
-        "class": "PlayAnimation",
-        "name": "",
-        "options": {
-            "animPath": "question.keys",
-            "config": [
-                "(animation) => {",
-                "}"
-            ]
-        },
-        "asset-pack": "core",
-        "parent": "adc2e31a-67df-43c9-966e-5ef330499ae2"
     },
     "1973e966-5d01-4c3c-b155-714b741764b0": {
         "id": "1973e966-5d01-4c3c-b155-714b741764b0",
@@ -873,13 +732,132 @@
         "asset-pack": "core",
         "parent": 1,
         "children": [
-            "a9b5639b-0ce4-4aca-9c8d-a5ac4bc324b9",
             "0c7216ed-dd11-46ae-9a6a-fe81b31915ff",
             "e68c9526-1b05-4887-919e-e75186ef7da9"
         ]
     },
-    "a9b5639b-0ce4-4aca-9c8d-a5ac4bc324b9": {
-        "id": "a9b5639b-0ce4-4aca-9c8d-a5ac4bc324b9",
+    "d0c4ba56-447f-45ae-a2c8-a883ce2ee828": {
+        "id": "d0c4ba56-447f-45ae-a2c8-a883ce2ee828",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Holyhappiness.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "f77e55f7-a6d5-4e06-941b-60ebbb49a4b3": {
+        "id": "f77e55f7-a6d5-4e06-941b-60ebbb49a4b3",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_GoodJob_01.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "a278383c-dd75-442a-b3d7-d5199d14ddce": {
+        "id": "a278383c-dd75-442a-b3d7-d5199d14ddce",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Whistle.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "dcc9e532-f8ab-49ce-aa93-a6e9eea1564d": {
+        "id": "dcc9e532-f8ab-49ce-aa93-a6e9eea1564d",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Bawhoop.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "2621b0c0-a6d0-405b-8933-41b9630717a0": {
+        "id": "2621b0c0-a6d0-405b-8933-41b9630717a0",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_GoodJob_01.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "ef44bff3-cf52-4dd8-9b9b-f21bd6260734": {
+        "id": "ef44bff3-cf52-4dd8-9b9b-f21bd6260734",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Holyhappiness.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "50afd2c7-8eec-4934-b22e-309fccae40b8": {
+        "id": "50afd2c7-8eec-4934-b22e-309fccae40b8",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Whistle.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "1e6338a8-edaa-4f95-9b1b-4efb50a088d0": {
+        "id": "1e6338a8-edaa-4f95-9b1b-4efb50a088d0",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Bawhoop.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "d5bc9a1d-b41d-4db7-ba53-417066d8ea77": {
+        "id": "d5bc9a1d-b41d-4db7-ba53-417066d8ea77",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Bleep.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "aef4b3b3-51ce-48c9-8f7d-1ac9e8d34ac9": {
+        "id": "aef4b3b3-51ce-48c9-8f7d-1ac9e8d34ac9",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Blip.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "e3cbebea-850e-4ff8-80ed-532facb2bb9b": {
+        "id": "e3cbebea-850e-4ff8-80ed-532facb2bb9b",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_GoodJob_01.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "e5c87959-4c4a-485a-a603-54e7a16c8be5": {
+        "id": "e5c87959-4c4a-485a-a603-54e7a16c8be5",
+        "class": "PlayAudio",
+        "name": "",
+        "options": {
+            "audioPath": "FX_Holyhappiness.mp3"
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "17f1b8b8-34d3-4626-8d7a-5552e8719039": {
+        "id": "17f1b8b8-34d3-4626-8d7a-5552e8719039",
         "class": "PlayAnimation",
         "name": "",
         "options": {
@@ -890,6 +868,160 @@
             ]
         },
         "asset-pack": "core",
-        "parent": "1973e966-5d01-4c3c-b155-714b741764b0"
+        "parent": 1
+    },
+    "d094540b-e8fc-43b4-850e-ca8470e4ffa3": {
+        "id": "d094540b-e8fc-43b4-850e-ca8470e4ffa3",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "6646759f-ff1a-44b7-bf9d-52c76f47f549": {
+        "id": "6646759f-ff1a-44b7-bf9d-52c76f47f549",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "9c77d01c-df2e-43e7-8dab-803feee07c67": {
+        "id": "9c77d01c-df2e-43e7-8dab-803feee07c67",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "10ce3f2c-97ff-45c2-9de8-0a7f91118187": {
+        "id": "10ce3f2c-97ff-45c2-9de8-0a7f91118187",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "dd21a382-8773-431c-b7a5-aee66661f6d2": {
+        "id": "dd21a382-8773-431c-b7a5-aee66661f6d2",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "0e5afb43-9a94-470d-afe7-c5a229dbc210": {
+        "id": "0e5afb43-9a94-470d-afe7-c5a229dbc210",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "6a2fe040-b44b-411a-9df0-35a5ce79d0cc": {
+        "id": "6a2fe040-b44b-411a-9df0-35a5ce79d0cc",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "0a2b732d-22d0-440d-9569-a609b7f7b109": {
+        "id": "0a2b732d-22d0-440d-9569-a609b7f7b109",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "aa491310-204c-4c92-bd36-7f770e2dd255": {
+        "id": "aa491310-204c-4c92-bd36-7f770e2dd255",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "11056833-3eb2-4dc3-a87d-194b37f713d0": {
+        "id": "11056833-3eb2-4dc3-a87d-194b37f713d0",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
+    },
+    "33f32bea-73d5-4668-b1fa-e26a7672d7dc": {
+        "id": "33f32bea-73d5-4668-b1fa-e26a7672d7dc",
+        "class": "PlayAnimation",
+        "name": "",
+        "options": {
+            "animPath": "question.keys",
+            "config": [
+                "(animation) => {",
+                "}"
+            ]
+        },
+        "asset-pack": "core",
+        "parent": 1
     }
 }
